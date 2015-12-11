@@ -3,7 +3,7 @@
 <head>
     <!-- Meta charset -->
     <meta charset="UTF-8">
- 
+
     <!-- Viewport specification for mobile devices -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
