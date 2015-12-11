@@ -1047,7 +1047,7 @@
                                     <i class="fa fa-download"></i>
                                     Download CV
                                 </a>
-                                <div class="footer-label uppercase">788kb | thang-cv.pdf</div>
+                                <div class="footer-label uppercase">788kb | thang-cv.pdf</div> 
                             </div>
                         </div>
                     </div>
