@@ -762,18 +762,18 @@
                         </a>
                     </li>
                     <li id="menu-item-238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-238 active">
-                        <a href="#portfolio">
+                        <a href="#experiences">
                             <span>
-                                Portfolio
+                                Experiences
                                 <span class="tl"></span>
                                 <span class="br"></span>
                             </span>
                         </a>
                     </li>
                     <li id="menu-item-239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-239 active">
-                        <a href="#blog">
+                        <a href="#portfolio">
                             <span>
-                                Blog
+                                Portfolio
                                 <span class="tl"></span>
                                 <span class="br"></span>
                             </span>
@@ -931,7 +931,7 @@
                 </div>
             </div>
         </div>
-        <div style="padding-bottom:60px;" class="container ">
+        <div style="padding-bottom:60px;" class="container">
             <div class="vc_row wpb_row vc_row-fluid">
                 <div class="wpb_column vc_column_container vc_col-sm-12">
                     <div class="wpb_wrapper">
@@ -973,14 +973,14 @@
                                 </div>
                             </div>
                         </div>
-                        <label>Illustrator</label>
+                        <!-- <label>Illustrator</label>
                         <div class="skill-bar compact" data-value="30%">
                             <div class="bar">
                                 <div class="fill">
                                     <div class="value">0%</div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <label>IT Support</label>
                         <div class="skill-bar compact" data-value="90%">
                             <div class="bar">
@@ -1145,7 +1145,7 @@
                 </div> -->
             </div>
         </div>
-        <div style="padding-bottom:60px;" class="container ">
+        <div style="padding-bottom:60px;" class="container" id="experiences">
             <div class="vc_row wpb_row vc_row-fluid">
                 <div class="wpb_column vc_column_container vc_col-sm-12">
                     <div class="wpb_wrapper">
@@ -1528,8 +1528,7 @@
                 </div>
             </div>
         </div>
-        <div style="padding-bottom:60px;" class="container" id="blog">
-        <!-- padding-bottom:60px; -->
+        <!-- <div style="padding-bottom:60px;" class="container" id="blog">
             <div class="vc_row wpb_row vc_row-fluid">
                 <div class="wpb_column vc_column_container vc_col-sm-12">
                     <div class="wpb_wrapper">
@@ -1546,12 +1545,7 @@
             <div class="vc_row wpb_row vc_row-fluid">
                 <div class="wpb_column vc_column_container vc_col-sm-12">
                     <div class="wpb_wrapper">
-
-                        <div class="text-center coming" style="padding-bottom:60px;">
-                            Coming soon...
-                        </div>
-
-                        <!-- <div class="padding-tiny-bottom">
+                        <div class="padding-tiny-bottom">
                             <div class="col-lg-4 col-md-4 col-sm-6">
                                 <div id="post-169" class="blog-post-small post-169 post type-post status-publish format-standard has-post-thumbnail hentry category-video tag-sample-tag-1 tag-sample-tag-2 tag-sample-tag-3 tag-sample-tag-4 tag-sample-tag-5 tag-sample-tag-6">
                                     <a href="javascript:;">
@@ -1756,11 +1750,11 @@
                                 <i class="fa fa-book"></i>
                                 More from the blog
                             </a>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div style="padding-bottom:60px;" class="container">
             <div class="vc_row wpb_row vc_row-fluid">
                 <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -1776,7 +1770,7 @@
         </div>
         <div style="padding-bottom:60px;" class="container">
             <div class="vc_row wpb_row vc_row-fluid">
-                <div class="wpb_column vc_column_container vc_col-sm-6" style="margin-bottom:20px;">
+                <div class="wpb_column vc_column_container vc_col-sm-12" style="margin-bottom:20px;">
                     <div class="wpb_wrapper">
                         <div class="wpb_gmaps_widget wpb_content_element">
                             <div class="wpb_wrapper">
@@ -1787,7 +1781,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="wpb_column vc_column_container vc_col-sm-6">
+                <!-- <div class="wpb_column vc_column_container vc_col-sm-6">
                     <div class="wpb_wrapper">
                         <div class="wpcf7" id="wpcf7-f223-p6-o1">
                             <form action="" method="post" class="wpcf7-form">
@@ -1838,10 +1832,10 @@
                                 </p>
                                 <div class="wpcf7-response-output wpcf7-display-none"></div>
                             </form>
-
+                
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
