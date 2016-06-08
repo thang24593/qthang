@@ -25,11 +25,11 @@
     <script src="js/respond.min.js"></script>
     <![endif]-->
 
-    <link rel='stylesheet' id='contact-form-7-css' href='css/styles.css?ver=3.7.2' type='text/css' media='all' />
     <link rel='stylesheet' href='css/awesome.min.css' type='text/css'/>
     <link rel='stylesheet' id='tb-live-preview-css' href='css/live-preview-compile.css' type='text/css' media='all' />
     <link rel='stylesheet' id='js_composer_front-css' href='css/js_composer.css?ver=4.7.4' type='text/css' media='all' />
     <link rel='stylesheet' id='tbs-styles-css' href='css/styles-compile.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='contact-form-7-css' href='css/styles.css?ver=3.7.2' type='text/css' media='all' />
     <script type='text/javascript' src='js/jquery.js?ver=1.11.3'></script>
     <script type='text/javascript' src='js/jquery-migrate.js?ver=1.2.1'></script>
     <script type='text/javascript' src='js/jquery.multibackground.min.js?ver=4.3.1'></script>
