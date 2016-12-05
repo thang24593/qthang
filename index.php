@@ -25,11 +25,11 @@
     <script src="js/respond.min.js"></script>
     <![endif]-->
 
-    <link rel='stylesheet' id='contact-form-7-css' href='css/styles.css?ver=3.7.2' type='text/css' media='all' />
     <link rel='stylesheet' href='css/awesome.min.css' type='text/css'/>
     <link rel='stylesheet' id='tb-live-preview-css' href='css/live-preview-compile.css' type='text/css' media='all' />
     <link rel='stylesheet' id='js_composer_front-css' href='css/js_composer.css?ver=4.7.4' type='text/css' media='all' />
     <link rel='stylesheet' id='tbs-styles-css' href='css/styles-compile.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='contact-form-7-css' href='css/styles.css?ver=3.7.2' type='text/css' media='all' />
     <script type='text/javascript' src='js/jquery.js?ver=1.11.3'></script>
     <script type='text/javascript' src='js/jquery-migrate.js?ver=1.2.1'></script>
     <script type='text/javascript' src='js/jquery.multibackground.min.js?ver=4.3.1'></script>
@@ -530,184 +530,6 @@
                         <span class="line2"></span>
                     </a>
                 </div>
-                <!-- <div class="expandable-content">
-                    <div class="expandable-content-inner">
-                        <div class="container">
-                            <div class="vc_row wpb_row vc_row-fluid">
-                                <div class="wpb_column vc_column_container vc_col-sm-4">
-                                    <div class="wpb_wrapper">
-                                        <div class="sub-heading">Latest posts</div>
-                                        <div class="iconed">
-                                            <i class="iconed-icon fa fa-book"></i>
-                                            <div class="iconed-content">
-                                                <div class="tbs_vc_widget tbs_vc_wp_posts wpb_content_element">
-                                                    <div class="widget">
-                                                        <ul class="list list-sided">
-                                                            <li>
-                                                                <a href="javascript:;">Freelancing</a>
-                                                                <div class="stamp color-darker pull-right">
-                                                                    <span class="post-date">Nov 7, 2014</span>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <a href="javascript:;">Old Cheese</a>
-                                                                <div class="stamp color-darker pull-right">
-                                                                    <span class="post-date">Nov 7, 2014</span>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <a href="javascript:;">The Sunset</a>
-                                                                <div class="stamp color-darker pull-right">
-                                                                    <span class="post-date">Nov 7, 2014</span>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <a href="javascript:;">Blonde By Nature</a>
-                                                                <div class="stamp color-darker pull-right">
-                                                                    <span class="post-date">Nov 7, 2014</span>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <a href="javascript:;">Lonely Autumn</a>
-                                                                <div class="stamp color-darker pull-right">
-                                                                    <span class="post-date">Nov 7, 2014</span>
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="wpb_column vc_column_container vc_col-sm-4">
-                                    <div class="wpb_wrapper">
-                                        <div class="sub-heading">Twitter Widget</div>
-                                        <div class="iconed">
-                                            <i class="iconed-icon fa fa-twitter"></i>
-                                            <div class="iconed-content">
-                                                <div class="roller">
-                                                    <ul class="list no-style roller-list">
-                                                        <li>
-                                                            <p class="small condensed">
-                                                                <a href="http://twitter.com/googlefonts" title="Google Fonts" class="user-mention">googlefonts</a>
-                                                                Why are there no italic styles for Raleway:
-                                                                <a href="https://t.co/QK6UZAMFqF" title="https://fonts.googleapis.com/css?family=Raleway:400,400italic">fonts.googleapis.com/css?family=Ral…</a>
-                                                                when clearly, they're in the repo:
-                                                                <a href="https://t.co/hqMNTwXKGo" title="https://github.com/google/fonts/tree/master/ofl/raleway">github.com/google/fonts/t…</a>
-                                                            </p>
-                                                            <p class="small condensed color-darker">
-                                                                6 days ago,
-                                                                <a href="http://twitter.com/tony_bogdanov" title="Tony Bogdanov">@tony_bogdanov</a>
-                                                            </p>
-                                                        </li>
-                                                        <li>
-                                                            <p class="small condensed">
-                                                                <a href="http://twitter.com/selima_sellami" title="Selima Sellami" class="user-mention">selima_sellami</a>
-                                                                Hi Selima, I've just sent you a response :)
-                                                            </p>
-                                                            <p class="small condensed color-darker">
-                                                                3 months ago,
-                                                                <a href="http://twitter.com/tony_bogdanov" title="Tony Bogdanov">@tony_bogdanov</a>
-                                                            </p>
-                                                        </li>
-                                                        <li>
-                                                            <p class="small condensed">
-                                                                RT
-                                                                <a href="http://twitter.com/Saijo_George" title="Saijo George" class="user-mention">Saijo_George</a>
-                                                                : Fancy Page Scroll Effects using Velocity.js b
-                                                                <a href="http://twitter.com/CodyWebHouse" title="CodyHouse" class="user-mention">CodyWebHouse</a>
-                                                                s
-                                                                <a href="http://t.co/rvUOjfDQ5N" title="http://saijo.co/1G2brJY">saijo.co/1G2brJY</a>
-                                                                5
-                                                                <a href="http://twitter.com/hashtag/webdesign?src=hash" class="hashtag">webdesign</a>
-                                                                g
-                                                                <a href="http://t.co/6RzCeckwyA" title="http://twitter.com/Saijo_George/status/611028522757398528/photo/1">pic.twitter.com/6RzCeckwyA</a>
-                                                                yA
-                                                            </p>
-                                                            <p class="small condensed color-darker">
-                                                                5 months ago,
-                                                                <a href="http://twitter.com/tony_bogdanov" title="Tony Bogdanov">@tony_bogdanov</a>
-                                                            </p>
-                                                        </li>
-                                                    </ul>
-                                                    <a href="#" class="button button-small button-icon roller-prev">
-                                                        <i class="fa fa-chevron-left"></i>
-                                                    </a>
-                                                    <a href="#" class="button button-small button-icon roller-next">
-                                                        <i class="fa fa-chevron-right"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="wpb_column vc_column_container vc_col-sm-4">
-                                    <div class="wpb_wrapper">
-                                        <div class="sub-heading">Flickr Widget</div>
-                                        <div class="iconed">
-                                            <i class="iconed-icon fa fa-flickr"></i>
-                                            <div class="iconed-content">
-                                                <div class="flickr-feed">
-                                                    <div class="row">
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                                                            <div class="flickr-feed-item">
-                                                                <a href="https://www.flickr.com/photos/52617155@N08/15647274066">
-                                                                    <img src="img/15647274066_2ee48c3fe9_q.jpg" alt="" />
-                                                                    <span class="hover"></span>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                                                            <div class="flickr-feed-item">
-                                                                <a href="https://www.flickr.com/photos/52617155@N08/15485436268">
-                                                                    <img src="img/15485436268_846ccca178_q.jpg" alt="" />
-                                                                    <span class="hover"></span>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                                                            <div class="flickr-feed-item">
-                                                                <a href="https://www.flickr.com/photos/52617155@N08/15668911091">
-                                                                    <img src="img/15668911091_4ef20118b5_q.jpg" alt="" />
-                                                                    <span class="hover"></span>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                                                            <div class="flickr-feed-item">
-                                                                <a href="https://www.flickr.com/photos/52617155@N08/15484954949">
-                                                                    <img src="img/15484954949_a4e97a9dc5_q.jpg" alt="" />
-                                                                    <span class="hover"></span>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                                                            <div class="flickr-feed-item">
-                                                                <a href="https://www.flickr.com/photos/52617155@N08/15647103116">
-                                                                    <img src="img/15647103116_1e4b9033f0_q.jpg" alt="" />
-                                                                    <span class="hover"></span>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                                                            <div class="flickr-feed-item">
-                                                                <a href="https://www.flickr.com/photos/52617155@N08/15668909741">
-                                                                    <img src="img/15668909741_eaf3db4054_q.jpg" alt="" />
-                                                                    <span class="hover"></span>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
             </div>
         </div>
     </div>
@@ -720,9 +542,14 @@
                 <div class="hero-heading uppercase">
                     <span>Nguyen Quyet Thang</span>
                 </div>
-                <div class="hero-subheading uppercase" data-rotate-1="Food Stylish" data-rotate-speed="5000" data-rotate-delay="0">Front-end Web Developer</div>
+                <div class="hero-subheading uppercase">Front-end Web Developer</div>
+                <div class="hero-amp">&amp;</div>
+                <div class="hero-handscript lowercase">awesome animations</div>
+
+                <!-- <div class="hero-subheading uppercase" data-rotate-1="Food Stylish" data-rotate-speed="5000" data-rotate-delay="0">Front-end Web Developer</div>
                 <div class="hero-amp" data-rotate-1="&amp;" data-rotate-speed="5000" data-rotate-delay="300">&amp;</div>
-                <div class="hero-handscript lowercase" data-rotate-1="amazing pictures" data-rotate-speed="5000" data-rotate-delay="600">awesome animations</div>
+                <div class="hero-handscript lowercase" data-rotate-1="amazing pictures" data-rotate-speed="5000" data-rotate-delay="600">awesome animations</div> -->
+
                 <!-- <div class="hero-subheading uppercase" data-rotate-1="Beautiful person" data-rotate-2="Amateur guitar player" data-rotate-speed="5000" data-rotate-delay="0">Professional Photographer</div>
                 <div class="hero-amp" data-rotate-1="&amp;" data-rotate-2="&amp;" data-rotate-speed="5000" data-rotate-delay="300">&amp;</div>
                 <div class="hero-handscript lowercase" data-rotate-1="People lover" data-rotate-2="Awesome story teller" data-rotate-speed="5000" data-rotate-delay="600">Graphic designer</div> -->
@@ -732,7 +559,7 @@
         <div id="hero-cover" class="cover hidden-sm hidden-xs">
             <div class="one"></div>
             <div class="two"></div>
-            <img src="img/cover1-tbs-cover.png" alt="Cover Image" />
+            <img src="img/ava.png" alt="Cover Image" />
         </div>
     </div>
 
@@ -778,64 +605,6 @@
                                 <span class="br"></span>
                             </span>
                         </a>
-                        <!-- <ul class="sub-menu">
-                            <li id="menu-item-240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-240">
-                                <a href="#">
-                                    <span>Full Width</span>
-                                </a>
-                                <ul class="sub-menu">
-                                    <li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247">
-                                        <a href="javascript:;">
-                                            <span>Big Boxes</span>
-                                        </a>
-                                    </li>
-                                    <li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246">
-                                        <a href="javascript:;">
-                                            <span>Small Boxes</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li id="menu-item-241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-241">
-                                <a href="#">
-                                    <span>Left Sidebar</span>
-                                </a>
-                                <ul class="sub-menu">
-                                    <li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-249">
-                                        <a href="javascript:;">
-                                            <span>Big Boxes</span>
-                                        </a>
-                                    </li>
-                                    <li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248">
-                                        <a href="javascript:;">
-                                            <span>Small Boxes</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li id="menu-item-242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-242">
-                                <a href="#">
-                                    <span>Right Sidebar</span>
-                                </a>
-                                <ul class="sub-menu">
-                                    <li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251">
-                                        <a href="javascript:;">
-                                            <span>Big Boxes</span>
-                                        </a>
-                                    </li>
-                                    <li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250">
-                                        <a href="javascript:;">
-                                            <span>Small Boxes</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li id="menu-item-243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-243">
-                                <a href="acoustic-guitar">
-                                    <span>Single Post</span>
-                                </a>
-                            </li>
-                        </ul> -->
                     </li>
                     <li id="menu-item-245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-245 active">
                         <a href="#contacts">
@@ -874,10 +643,10 @@
                         <div class="wpb_text_column wpb_content_element">
                             <div class="wpb_wrapper">
                                 <p>
-                                    I've worked as Front-end website developer for a year in digital marketing. Sense of responsibility, attention to details in all the tasks are my greatest strengths. Additionally, with a proactive attitude & strong work ethic, I am sure to make a good contribution into day-by-day operation and finish the jobs as well.
+                                    Within a year of working as a Front-end Website Developer in Advertising & Technology field, I have participated in many web building projects for a large number of customers including Kimberly-Clark's Vietnamese Huggies Branch, Vinamilk (Vietnam Dairy Products Joint Stock Company), Manulife Financial, Vinastar Motors Corporation (Mitsubishi Motors Vietnam), Rohto-Mentholatum Vietnam, etc.
                                 </p>
                                 <p>
-                                    I am looking for a suitable position in a professional enviroment that can offer me to gain experience and improve my capabilities.
+                                    With a responsible and innovative mindset, I seek to further improvement and leverage my knowledge in designing, building and maintaining websites as well as other Front-end side related skills. I look forward to working in a resourceful and dynamic environment where I can fully utilize my abilities for the development and the benefit of the organization.
                                 </p>
                                 <p></p>
                             </div>
@@ -898,14 +667,10 @@
                             <li>
                                 <strong>E-mail:</strong>
                                 <a href="javascript:;">thang24593@gmail.com</a>
-                                <!-- <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="01686f676e41726077606f6f60696c60782f626e6c">thang24593@gmail.com</a> -->
-                                <script data-cfhash='f9e31' type="text/javascript">
-                                    // /* <![CDATA[ */!function () { try { var t = "currentScript" in document ? document.currentScript : function () { for (var t = document.getElementsByTagName("script"), e = t.length; e--;) if (t[e].getAttribute("data-cfhash")) return t[e] }(); if (t && t.previousSibling) { var e, r, n, i, c = t.previousSibling, a = c.getAttribute("data-cfemail"); if (a) { for (e = "", r = parseInt(a.substr(0, 2), 16), n = 2; a.length - n; n += 2) i = parseInt(a.substr(n, 2), 16) ^ r, e += String.fromCharCode(i); e = document.createTextNode(e), c.parentNode.replaceChild(e, c) } t.parentNode.removeChild(t); } } catch (u) { } }()/* ]]>*/
-                                </script>
                             </li>
                             <li>
                                 <strong>Address:</strong>
-                                B7-1 No1 Str., <br> Thu Duc District, <br> Ho Chi Minh City, Vietnam
+                                B7-1, 1<sup>st</sup> Street, <br> Hiep Binh Chanh Ward, <br>Thu Duc District, <br> Ho Chi Minh City, Vietnam
                             </li>
                             <li>
                                 <strong>Skype:</strong>
@@ -948,67 +713,67 @@
             <div class="vc_row wpb_row vc_row-fluid">
                 <div class="wpb_column vc_column_container vc_col-sm-4">
                     <div class="wpb_wrapper">
-                        <div class="sub-heading">Professional  Skills</div>
-                        <label>Javascript</label>
-                        <div class="skill-bar compact" data-value="70%">
-                            <div class="bar">
-                                <div class="fill">
-                                    <div class="value">0%</div>
-                                </div>
-                            </div>
-                        </div>
-                        <label>Google Web Designer</label>
-                        <div class="skill-bar compact" data-value="80%">
-                            <div class="bar">
-                                <div class="fill">
-                                    <div class="value">0%</div>
-                                </div>
-                            </div>
-                        </div>
-                        <label>Photoshop</label>
-                        <div class="skill-bar compact" data-value="55%">
-                            <div class="bar">
-                                <div class="fill">
-                                    <div class="value">0%</div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- <label>Illustrator</label>
-                        <div class="skill-bar compact" data-value="30%">
-                            <div class="bar">
-                                <div class="fill">
-                                    <div class="value">0%</div>
-                                </div>
-                            </div>
-                        </div> -->
-                        <label>IT Support</label>
-                        <div class="skill-bar compact" data-value="90%">
-                            <div class="bar">
-                                <div class="fill">
-                                    <div class="value">0%</div>
-                                </div>
-                            </div>
-                        </div>
+                        <div class="sub-heading">Professional Skillset</div>
+                        <ul class="list custom-bullets">
+                            <li>
+                                <span class="bullet"></span>
+                                W3C Validated HTML5
+                            </li>
+                            <li>
+                                <span class="bullet"></span>
+                                Jade
+                            </li>
+                            <li>
+                                <span class="bullet"></span>
+                                CSS3 via Sass
+                            </li>
+                            <li>
+                                <span class="bullet"></span>
+                                Javascript, jQuery
+                            </li>
+                        </ul>
                     </div>
                 </div>
                 <div class="wpb_column vc_column_container vc_col-sm-4">
                     <div class="wpb_wrapper">
-                        <div class="sub-heading">Language Skills</div>
-                        <label>English</label>
-                        <div class="skill-bar skill-bar-bullets compact" data-value="60%">
-                            <div class="bar">
-                                <div class="fill"></div>
-                                <div class="fill"></div>
-                                <div class="fill"></div>
-                                <div class="fill"></div>
-                                <div class="fill"></div>
-                                <div class="fill"></div>
-                                <div class="fill"></div>
-                            </div>
-                        </div>
+                        <div class="sub-heading">Working knowledge</div>
+                        <ul class="list custom-bullets">
+                            <li>
+                                <span class="bullet"></span>
+                                AngularJS
+                            </li>
+                            <li>
+                                <span class="bullet"></span>
+                                MVC frameworks <br>
+                                (Umbraco, PyroCMS)
+                            </li>
+                        </ul>
                     </div>
                 </div>
                 <div class="wpb_column vc_column_container vc_col-sm-4">
+                    <div class="wpb_wrapper">
+                        <div class="sub-heading">Tools</div>
+                        <ul class="list custom-bullets">
+                            <li>
+                                <span class="bullet"></span>
+                                Git
+                            </li>
+                            <li>
+                                <span class="bullet"></span>
+                                Vagrant, Xampp
+                            </li>
+                            <li>
+                                <span class="bullet"></span>
+                                SVN
+                            </li>
+                            <li>
+                                <span class="bullet"></span>
+                                SublimeText 3
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- <div class="wpb_column vc_column_container vc_col-sm-4">
                     <div class="wpb_wrapper">
                         <div class="sub-heading">Personal Skills</div>
                         <ul class="list custom-bullets">
@@ -1034,7 +799,7 @@
                             </li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <div class="container-none ">
@@ -1047,7 +812,7 @@
                                     <i class="fa fa-download"></i>
                                     Download CV
                                 </a>
-                                <div class="footer-label uppercase">788kb | thang-cv.pdf</div>
+                                <div class="footer-label uppercase">1,102kb | thang-cv.pdf</div>
                             </div>
                         </div>
                     </div>
@@ -1170,15 +935,16 @@
                                         <i class="fa fa-briefcase"></i>
                                     </div>
                                     <div class="datetime">
-                                        JUL 2015 - Present
+                                        2015 - Present
                                         <div class="aff uppercase">Square Direct Advertising Join Stock Company</div>
                                     </div>
                                 </div>
                                 <p>
-                                    Code Front-end Website by using programing languages: HTML, CSS, JavaScript, jQuery,...
-                                </p>
-                                <p>
-                                    Create an HTML5 animated banner using Google Web Designer, following a client-approved storyboard.
+                                    Completed projects: huggies.com.vn, dsquare.com.vn, vinamilk.com.vn/the-gioi-an-dam, vinamilk.com.vn/hinh-dan-5-chieu, 1phuttietkiemtrieuniemvui.com.vn, ... <br>
+
+                                    Responsible for the front-end architecture of large scale responsive builds in Angular, Umbraco, and PyroCMS. <br>
+
+                                    Build interactive HTML5 Banner Ads by Google Web Designer.
                                 </p>
                             </li>
                         </ul>
@@ -1194,45 +960,17 @@
                                         <i class="fa fa-graduation-cap"></i>
                                     </div>
                                     <div class="datetime">
-                                        SEP 2011 - NOV 2015
-                                        <div class="aff uppercase">HCM City University of Transport</div>
+                                        2011 - 2015
+                                        <div class="aff uppercase">HCM City University of Transport, Vietnam</div>
                                     </div>
                                 </div>
                                 <p>
                                     <strong>Modules included:</strong> Data Communications & Computer Networks, Software Technology, Data Structures and Algorithms, Object-oriented programming, Database, Web Programming, Intranet system design... <br>
+
+                                    <strong>Rank:</strong> Good <br>
                                     <strong>Dissertation:</strong> 9.3/10
                                 </p>
                             </li>
-                            <!-- <li>
-                                <div class="heading">
-                                    <div class="title">MCSA</div>
-                                    <div class="icon">
-                                        <i class="fa fa-graduation-cap"></i>
-                                    </div>
-                                    <div class="datetime">
-                                        2014
-                                        <div class="aff uppercase">Nhat Nghe ICT Training Center</div>
-                                    </div>
-                                </div>
-                                <p>
-                                    Microsoft Certified Systems Administrator
-                                </p>
-                            </li>
-                            <li>
-                                <div class="heading">
-                                    <div class="title">CCNA</div>
-                                    <div class="icon">
-                                        <i class="fa fa-graduation-cap"></i>
-                                    </div>
-                                    <div class="datetime">
-                                        2014
-                                        <div class="aff uppercase">VNPRO Network Training Center</div>
-                                    </div>
-                                </div>
-                                <p>
-                                    Cisco Certified Network Associate 
-                                </p>
-                            </li> -->
                         </ul>
                     </div>
                 </div>
@@ -1781,61 +1519,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="wpb_column vc_column_container vc_col-sm-6">
-                    <div class="wpb_wrapper">
-                        <div class="wpcf7" id="wpcf7-f223-p6-o1">
-                            <form action="" method="post" class="wpcf7-form">
-                                <div style="display: none;">
-                                    <input type="hidden" name="_wpcf7" value="223" />
-                                    <input type="hidden" name="_wpcf7_version" value="3.7.2" />
-                                    <input type="hidden" name="_wpcf7_locale" value="en_US" />
-                                    <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f223-p6-o1" />
-                                    <input type="hidden" name="_wpnonce" value="58e18433e9" />
-                                </div>
-                                <div class="row">
-                                    <div class="col-lg-6 col-md-6 col-sm-6">
-                                        <label>
-                                            Your Name (required):
-                                            <span class="wpcf7-form-control-wrap your-name">
-                                                <input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" />
-                                            </span>
-                                        </label>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-sm-6">
-                                        <label>
-                                            Your Email (required):
-                                            <span class="wpcf7-form-control-wrap your-email">
-                                                <input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" />
-                                            </span>
-                                        </label>
-                                    </div>
-                                </div>
-                                <p>
-                                    <label>
-                                        Subject (required):
-                                        <span class="wpcf7-form-control-wrap your-subject">
-                                            <input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" />
-                                        </span>
-                                    </label>
-                                    <br />
-                                    <label>
-                                        Your Message (required):
-                                        <span class="wpcf7-form-control-wrap your-message">
-                                            <textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></textarea>
-                                        </span>
-                                    </label>
-                                    <br />
-                                    <button type="submit" class="wpcf7-form-control wpcf7-submit button button-icon-left button button-icon-left">
-                                        <i class="fa fa-envelope"></i>
-                                        Send
-                                    </button>
-                                </p>
-                                <div class="wpcf7-response-output wpcf7-display-none"></div>
-                            </form>
-                
-                        </div>
-                    </div>
-                </div> -->
             </div>
         </div>
     </div>

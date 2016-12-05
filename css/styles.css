@@ -65,3 +65,10 @@ div.wpcf7 div.ajax-error {
 div.wpcf7 .placeheld {
 	color: #888;
 }
+
+
+@media (max-width: 767px) {
+	.wpb_column > .wpb_wrapper > :last-child {
+		margin-bottom: 30px;
+	}
+}
