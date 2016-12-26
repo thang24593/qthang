@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="en-US">
-<head> 
+<head>
     <!-- Meta charset -->
     <meta charset="UTF-8">
 
@@ -935,7 +935,7 @@
                                         <i class="fa fa-briefcase"></i>
                                     </div>
                                     <div class="datetime">
-                                        2015 - Present
+                                        7/2015 - 7/2016
                                         <div class="aff uppercase">Square Direct Advertising Join Stock Company</div>
                                     </div>
                                 </div>
@@ -945,6 +945,21 @@
                                     Responsible for the front-end architecture of large scale responsive builds in Angular, Umbraco, and PyroCMS. <br>
 
                                     Build interactive HTML5 Banner Ads by Google Web Designer.
+                                </p>
+                            </li>
+                            <li>
+                                <div class="heading">
+                                    <div class="title">Frontend Developer</div>
+                                    <div class="icon">
+                                        <i class="fa fa-briefcase"></i>
+                                    </div>
+                                    <div class="datetime">
+                                        7/2016 - Present
+                                        <div class="aff uppercase">Sutrix Solutions</div>
+                                    </div>
+                                </div>
+                                <p>
+
                                 </p>
                             </li>
                         </ul>
@@ -1112,7 +1127,7 @@
                     <div class="wpb_wrapper">
 
                         <div class="text-center coming" style="padding-bottom:60px;">
-                            Coming soon...
+                            Please contact for more information. Thank you.
                         </div>
 
                         <div class="container padding-minus-bottom" style="display:none;">
@@ -1574,7 +1589,7 @@
                                     <div class="wpb_text_column wpb_content_element">
                                         <div class="wpb_wrapper">
                                             <p>
-                                                ©2015 All rights reserved. Made with
+                                                ©2016 All rights reserved. Made with
                                                 <i class="fa fa-heart"></i>
                                                 by
                                                 <a class="colored" href="http://qthang.com" target="_blank">QThang</a>
