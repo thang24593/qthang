@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Basic page information -->
-    <meta name="author" content="">
-    <meta name="description" content="Nguyen Quyet Thang">
-    <title>Mr.Thang | Nguyen Quyet Thang</title>
+    <meta name="author" content="Nguyen Quyet Thang">
+    <meta name="description" content="Frontend Web Developer">
+    <title>Thang Nguyen | Frontend Web Developer</title>
 
     <!-- Favicons -->
     <link rel="shortcut icon" href="favicon_16.ico">
