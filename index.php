@@ -550,11 +550,11 @@
         <div class="hero-heading uppercase">
           <span>Nguyen Quyet Thang</span>
         </div>
-        <div class="hero-subheading uppercase">Front-end Web Developer</div>
+        <div class="hero-subheading uppercase">Frontend Web Developer</div>
         <div class="hero-amp">&amp;</div>
         <div class="hero-handscript lowercase">awesome animations</div>
 
-        <!-- <div class="hero-subheading uppercase" data-rotate-1="Food Stylish" data-rotate-speed="5000" data-rotate-delay="0">Front-end Web Developer</div>
+        <!-- <div class="hero-subheading uppercase" data-rotate-1="Food Stylish" data-rotate-speed="5000" data-rotate-delay="0">Frontend Web Developer</div>
         <div class="hero-amp" data-rotate-1="&amp;" data-rotate-speed="5000" data-rotate-delay="300">&amp;</div>
         <div class="hero-handscript lowercase" data-rotate-1="amazing pictures" data-rotate-speed="5000" data-rotate-delay="600">awesome animations</div> -->
 
@@ -651,10 +651,10 @@
             <div class="wpb_text_column wpb_content_element">
               <div class="wpb_wrapper">
                 <p>
-                  Within 2 years of working as a Front-end Website Developer in Advertising & Outsourcing field, I have participated in many web building projects for a large number of customers including Kimberly-Clark's Vietnamese Huggies Branch, Vinamilk (Vietnam Dairy Products Joint Stock Company), Manulife Financial, Vinastar Motors Corporation (Mitsubishi Motors Vietnam), Rohto-Mentholatum Vietnam, etc.
+                  Within 2 years of working as a Frontend Website Developer in Advertising & Outsourcing field, I have participated in many web building projects for a large number of customers including Kimberly-Clark's Vietnamese Huggies Branch, Vinamilk (Vietnam Dairy Products Joint Stock Company), Manulife Financial, Vinastar Motors Corporation (Mitsubishi Motors Vietnam), Rohto-Mentholatum Vietnam, etc.
                 </p>
                 <p>
-                  With a responsible and innovative mindset, I seek to further improvement and leverage my knowledge in designing, building and maintaining websites as well as other Front-end side related skills. I look forward to working in a resourceful and dynamic environment where I can fully utilize my abilities for the development and the benefit of the organization.
+                  With a responsible and innovative mindset, I seek to further improvement and leverage my knowledge in designing, building and maintaining websites as well as other Frontend side related skills. I look forward to working in a resourceful and dynamic environment where I can fully utilize my abilities for the development and the benefit of the organization.
                 </p>
                 <p></p>
               </div>
@@ -823,7 +823,7 @@
                   <i class="fa fa-download"></i>
                   Download CV
                 </a>
-                <div class="footer-label uppercase">1,102kb | thang-cv.pdf</div>
+                <div class="footer-label uppercase">760kb | thang-cv.pdf</div>
               </div>
             </div>
           </div>
@@ -953,7 +953,7 @@
                 <p>
                   - Completed projects: huggies.com.vn, dsquare.com.vn, vinamilk.com.vn/the-gioi-an-dam, vinamilk.com.vn/hinh-dan-5-chieu, 1phuttietkiemtrieuniemvui.com.vn, ... <br>
 
-                  - Responsible for the front-end architecture of large scale responsive builds in Angular, Umbraco, and PyroCMS. <br>
+                  - Responsible for the frontend architecture of large scale responsive builds in Angular, Umbraco, and PyroCMS. <br>
 
                   - Build interactive HTML5 Banner Ads by Google Web Designer.
                 </p>
