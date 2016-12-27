@@ -10374,7 +10374,10 @@ a.wpb_button_a:hover {
 ---------------------------------------------------------- */
 .wpb_gmaps_widget .wpb_wrapper {
   background-color: #f7f7f7;
-  padding: 5px;
+  // padding: 5px;
+}
+.wpb_gmaps_widget .wpb_map_wraper {
+  border: 1px solid #626262;
 }
 .wpb_gmaps_widget .wpb_map_wraper iframe {
   margin-bottom: 0;
