@@ -7775,7 +7775,7 @@ body .light  .pingback .content .name {
   font-size: 10px;
   line-height: 20px;
   text-transform: uppercase;
-  color: #fff;
+  color: #626262;
   padding: 0 7px;
   border-top-right-radius: 3px;
   border-bottom-right-radius: 3px;
@@ -8527,7 +8527,6 @@ footer .copyright a {
   text-decoration: underline !important;
 }
 footer .top,
-footer .top:hover,
 footer .top:active,
 footer .top:focus,
 footer .top:visited {
@@ -8541,8 +8540,11 @@ footer .top:visited {
   font-size: 15px;
   line-height: 40px;
   text-decoration: none;
-  color: #fff !important;
+  color: #fff;
   background: #171717 !important;
+}
+footer .top:hover i {
+  color: #fff;
 }
 /* Top bar */
 .top-bar {
