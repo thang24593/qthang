@@ -827,7 +827,7 @@
                   <i class="fa fa-download"></i>
                   Download CV
                 </a>
-                <div class="footer-label uppercase">760kb | thang-cv.pdf</div>
+                <div class="footer-label uppercase">785kb | thang-cv.pdf</div>
               </div>
             </div>
           </div>
@@ -964,7 +964,7 @@
               </li>
               <li>
                 <div class="heading">
-                  <div class="title">Frontend Developer</div>
+                  <div class="title">Senior Frontend Developer</div>
                   <div class="icon">
                     <i class="fa fa-briefcase"></i>
                   </div>
