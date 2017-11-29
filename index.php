@@ -655,7 +655,7 @@
             <div class="wpb_text_column wpb_content_element">
               <div class="wpb_wrapper">
                 <p>
-                  Within 2 years of working as a Frontend Website Developer in Advertising & Outsourcing field, I have participated in many web building projects for a large number of customers including Kimberly-Clark's Vietnamese Huggies Branch, Vinamilk (Vietnam Dairy Products Joint Stock Company), Manulife Financial, Vinastar Motors Corporation (Mitsubishi Motors Vietnam), Rohto-Mentholatum Vietnam, etc.
+                  Within 3 years of working as a Frontend Website Developer in Advertising & Outsourcing field, I have participated in many web building projects for a large number of customers including Kimberly-Clark's Vietnamese Huggies Branch, Vinamilk (Vietnam Dairy Products Joint Stock Company), Manulife Financial, Vinastar Motors Corporation (Mitsubishi Motors Vietnam), Rohto-Mentholatum Vietnam, etc.
                 </p>
                 <p>
                   With a responsible and innovative mindset, I seek to further improvement and leverage my knowledge in designing, building and maintaining websites as well as other Frontend side related skills. I look forward to working in a resourceful and dynamic environment where I can fully utilize my abilities for the development and the benefit of the organization.
@@ -737,7 +737,7 @@
               </li>
               <li>
                 <span class="bullet"></span>
-                CSS3 via Sass
+                CSS3 via Scss, Less
               </li>
               <li>
                 <span class="bullet"></span>
@@ -752,7 +752,7 @@
             <ul class="list custom-bullets">
               <li>
                 <span class="bullet"></span>
-                ReactJS
+                Angular 2
               </li>
               <!-- <li>
                 <span class="bullet"></span>
@@ -827,7 +827,7 @@
                   <i class="fa fa-download"></i>
                   Download CV
                 </a>
-                <div class="footer-label uppercase">773kb | thang-cv.pdf</div>
+                <div class="footer-label uppercase">772kb | thang-cv.pdf</div>
               </div>
             </div>
           </div>
