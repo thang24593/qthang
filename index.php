@@ -827,7 +827,7 @@
                   <i class="fa fa-download"></i>
                   Download CV
                 </a>
-                <div class="footer-label uppercase">785kb | thang-cv.pdf</div>
+                <div class="footer-label uppercase">773kb | thang-cv.pdf</div>
               </div>
             </div>
           </div>
@@ -950,7 +950,7 @@
                     <i class="fa fa-briefcase"></i>
                   </div>
                   <div class="datetime">
-                    7/2015 - 7/2016
+                    2015 - 2016
                     <div class="aff uppercase">Square Direct Advertising Join Stock Company</div>
                   </div>
                 </div>
@@ -964,12 +964,12 @@
               </li>
               <li>
                 <div class="heading">
-                  <div class="title">Senior Frontend Developer</div>
+                  <div class="title">Frontend Team Leader</div>
                   <div class="icon">
                     <i class="fa fa-briefcase"></i>
                   </div>
                   <div class="datetime">
-                    7/2016 - Present
+                    2016 - Present
                     <div class="aff uppercase">Sutrix Solutions</div>
                   </div>
                 </div>
