@@ -682,7 +682,7 @@
               </li>
               <li>
                 <strong>Address:</strong>
-                B7-1, 1<sup>st</sup> Street, <br> Hiep Binh Chanh Ward, <br>Thu Duc District, <br> Ho Chi Minh City, Vietnam
+                Hiep Binh Chanh Ward, <br>Thu Duc District, <br> Ho Chi Minh City, Vietnam
               </li>
               <li>
                 <strong>Skype:</strong>
@@ -733,7 +733,7 @@
               </li>
               <li>
                 <span class="bullet"></span>
-                Jade
+                Jade, Pug
               </li>
               <li>
                 <span class="bullet"></span>
@@ -754,13 +754,17 @@
                 <span class="bullet"></span>
                 Angular 2
               </li>
-              <!-- <li>
-                <span class="bullet"></span>
-                AngularJS
-              </li> -->
               <li>
                 <span class="bullet"></span>
                 MVC frameworks
+              </li>
+              <li>
+                <span class="bullet"></span>
+                Social Network APIs
+              </li>
+              <li>
+                <span class="bullet"></span>
+                Banner GDN
               </li>
             </ul>
           </div>
@@ -771,7 +775,7 @@
             <ul class="list custom-bullets">
               <li>
                 <span class="bullet"></span>
-                Gulp, Grunt
+                Grunt, Gulp
               </li>
               <li>
                 <span class="bullet"></span>
@@ -827,7 +831,7 @@
                   <i class="fa fa-download"></i>
                   Download CV
                 </a>
-                <div class="footer-label uppercase">772kb | thang-cv.pdf</div>
+                <div class="footer-label uppercase">795kb | thang-cv.pdf</div>
               </div>
             </div>
           </div>
@@ -959,7 +963,7 @@
 
                   - Responsible for the frontend architecture of large scale responsive builds in Angular, Umbraco, and PyroCMS. <br>
 
-                  - Build interactive HTML5 Banner Ads by Google Web Designer.
+                  - Build interactive HTML5 Banner GDN Ads by Google Web Designer.
                 </p>
               </li>
               <li>
