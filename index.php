@@ -655,7 +655,7 @@
             <div class="wpb_text_column wpb_content_element">
               <div class="wpb_wrapper">
                 <p>
-                  Within 3 years of working as a Frontend Website Developer in Advertising & Outsourcing field, I have participated in many web building projects for a large number of customers including Kimberly-Clark's Vietnamese Huggies Branch, Vinamilk (Vietnam Dairy Products Joint Stock Company), Manulife Financial, Vinastar Motors Corporation (Mitsubishi Motors Vietnam), Rohto-Mentholatum Vietnam, etc.
+                  Within 3 years of working as a Frontend Website Developer in Advertising & Outsourcing field, I have participated in many web building projects for a large number of customers including Singapore Airlines, Qatar, Kimberly-Clark's Vietnamese Huggies Branch, Vinamilk (Vietnam Dairy Products Joint Stock Company), Manulife Financial, Vinastar Motors Corporation (Mitsubishi Motors Vietnam), Rohto-Mentholatum Vietnam, etc.
                 </p>
                 <p>
                   With a responsible and innovative mindset, I seek to further improvement and leverage my knowledge in designing, building and maintaining websites as well as other Frontend side related skills. I look forward to working in a resourceful and dynamic environment where I can fully utilize my abilities for the development and the benefit of the organization.
@@ -764,6 +764,10 @@
               </li>
               <li>
                 <span class="bullet"></span>
+                Wordpress
+              </li>
+              <li>
+                <span class="bullet"></span>
                 Banner GDN
               </li>
             </ul>
@@ -831,7 +835,7 @@
                   <i class="fa fa-download"></i>
                   Download CV
                 </a>
-                <div class="footer-label uppercase">795kb | thang-cv.pdf</div>
+                <div class="footer-label uppercase">812kb | thang-cv.pdf</div>
               </div>
             </div>
           </div>
@@ -959,7 +963,7 @@
                   </div>
                 </div>
                 <p>
-                  - Completed projects: huggies.com.vn, dsquare.com.vn, vinamilk.com.vn/the-gioi-an-dam, vinamilk.com.vn/hinh-dan-5-chieu, 1phuttietkiemtrieuniemvui.com.vn, ... <br>
+                  - Completed projects: huggies.com.vn, dsquare.com.vn, vinamilk.com.vn/the-gioi-an-dam, vinamilk.com.vn/hinh-dan-5-chieu, 1phuttietkiemtrieuniemvui.com.vn visitqatar.qa, ... <br>
 
                   - Responsible for the frontend architecture of large scale responsive builds in Angular, Umbraco, and PyroCMS. <br>
 
