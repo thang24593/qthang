@@ -5,9 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- Basic page information -->
-  <meta name="author" content="Nguyen Quyet Thang">
-  <meta name="description" content="Frontend Web Developer">
-  <title>Thang Nguyen | Frontend Web Developer</title>
+  <meta name="author" content="Thang Nguyen">
+  <meta name="description" content="Frontend Developer">
+  <title>Thang Nguyen | Frontend Developer</title>
 
   <!-- Favicons -->
   <link rel="shortcut icon" href="favicon_16.ico">
@@ -523,11 +523,11 @@
                   <i class="fa fa-pinterest"></i>
                 </span>
               </a>
-              <a href="https://dribbble.com/thang24593" class="footer-label uppercase" target="_blank">
+              <!-- <a href="https://dribbble.com/thang24593" class="footer-label uppercase" target="_blank">
                 <span class="button button-icon button-clear pull-left">
                   <i class="fa fa-dribbble"></i>
                 </span>
-              </a>
+              </a> -->
             </div>
           </div>
         </div>
@@ -554,11 +554,11 @@
         <div class="hero-heading uppercase">
           <span>Nguyen Quyet Thang</span>
         </div>
-        <div class="hero-subheading uppercase">Frontend Web Developer</div>
+        <div class="hero-subheading uppercase">Frontend Developer</div>
         <div class="hero-amp">&amp;</div>
         <div class="hero-handscript lowercase">awesome animations</div>
 
-        <!-- <div class="hero-subheading uppercase" data-rotate-1="Food Stylish" data-rotate-speed="5000" data-rotate-delay="0">Frontend Web Developer</div>
+        <!-- <div class="hero-subheading uppercase" data-rotate-1="Food Stylish" data-rotate-speed="5000" data-rotate-delay="0">Frontend Developer</div>
         <div class="hero-amp" data-rotate-1="&amp;" data-rotate-speed="5000" data-rotate-delay="300">&amp;</div>
         <div class="hero-handscript lowercase" data-rotate-1="amazing pictures" data-rotate-speed="5000" data-rotate-delay="600">awesome animations</div> -->
 
@@ -655,12 +655,14 @@
             <div class="wpb_text_column wpb_content_element">
               <div class="wpb_wrapper">
                 <p>
-                  Within 3 years of working as a Frontend Website Developer in Advertising & Outsourcing field, I have participated in many web building projects for a large number of customers including Singapore Airlines, Qatar, Kimberly-Clark's Vietnamese Huggies Branch, Vinamilk (Vietnam Dairy Products Joint Stock Company), Manulife Financial, Vinastar Motors Corporation (Mitsubishi Motors Vietnam), Rohto-Mentholatum Vietnam, etc.
+                  I’m Thang - a FE Developer with 3+ years experience and currently working at Sutrix Solutions company as a FE Team Leader. I have a lot of experience in leading strong teams, developing new & exciting features in the creative process, manage many projects at a time with very aggressive deadline under high pressure.
                 </p>
                 <p>
-                  With a responsible and innovative mindset, I seek to further improvement and leverage my knowledge in designing, building and maintaining websites as well as other Frontend side related skills. I look forward to working in a resourceful and dynamic environment where I can fully utilize my abilities for the development and the benefit of the organization.
+                  Having a good taste in designing, I love making professional design work, creative campaign concepts. I’m interested in awesome animations with high performance.
                 </p>
-                <p></p>
+                <p>
+                  With a responsible and innovative mindset, I seek to further improvement and leverage my knowledge in designing, building websites as well as frontend libraries like Angular, React, etc. I look forward to working in a resourceful and dynamic environment where I can fully utilize my abilities for the development and the benefit of the organization.
+                </p>
               </div>
             </div>
           </div>
@@ -669,24 +671,24 @@
           <div class="wpb_wrapper">
             <ul class="no-style">
               <li>
-                <strong>Birthday:</strong>
-                24/05/1993
+                <strong>Date of birth:</strong>
+                May 24<sup>th</sup>, 1993
               </li>
               <li>
                 <strong>Phone:</strong>
-                (+84) 169 4996 005
+                (+84)-169 4996 005
               </li>
               <li>
-                <strong>E-mail:</strong>
-                <a href="javascript:;">thang24593@gmail.com</a>
+                <strong>Email:</strong>
+                <a href="mailto:thang24593@gmail.com">thang24593@gmail.com</a>
               </li>
               <li>
                 <strong>Address:</strong>
-                Hiep Binh Chanh Ward, <br>Thu Duc District, <br> Ho Chi Minh City, Vietnam
+                Hiep Binh Chanh Ward, <br>Thu Duc District, <br>Ho Chi Minh City, Vietnam
               </li>
               <li>
                 <strong>Skype:</strong>
-                thang24593
+                <a href="skype:thang24593?call">thang24593</a>
               </li>
             </ul>
             <a href="https://www.facebook.com/thang24593" class="button button-icon" target="_blank">
@@ -701,9 +703,9 @@
             <a href="https://www.pinterest.com/thang24593/" class="button button-icon" target="_blank">
               <i class="fa fa-pinterest"></i>
             </a>
-            <a href="https://dribbble.com/thang24593" class="button button-icon" target="_blank">
+            <!-- <a href="https://dribbble.com/thang24593" class="button button-icon" target="_blank">
               <i class="fa fa-dribbble"></i>
-            </a>
+            </a> -->
           </div>
         </div>
       </div>
@@ -743,6 +745,10 @@
                 <span class="bullet"></span>
                 Javascript, jQuery
               </li>
+              <li>
+                <span class="bullet"></span>
+                Typescript
+              </li>
             </ul>
           </div>
         </div>
@@ -764,7 +770,7 @@
               </li>
               <li>
                 <span class="bullet"></span>
-                Wordpress
+                Wordpress, WooCommerce
               </li>
               <li>
                 <span class="bullet"></span>
@@ -779,19 +785,19 @@
             <ul class="list custom-bullets">
               <li>
                 <span class="bullet"></span>
-                Grunt, Gulp
+                Yarn, Grunt, Gulp
               </li>
               <li>
                 <span class="bullet"></span>
-                Vagrant, Xampp
+                Xampp
               </li>
               <li>
                 <span class="bullet"></span>
-                Git, SVN
+                Git, SVN, Jira, Assembla
               </li>
               <li>
                 <span class="bullet"></span>
-                SublimeText 3
+                VS Code, SublimeText 3
               </li>
             </ul>
           </div>
@@ -835,7 +841,7 @@
                   <i class="fa fa-download"></i>
                   Download CV
                 </a>
-                <div class="footer-label uppercase">812kb | thang-cv.pdf</div>
+                <div class="footer-label uppercase">thang-cv.pdf</div>
               </div>
             </div>
           </div>
@@ -953,36 +959,55 @@
             <ul class="history">
               <li>
                 <div class="heading">
+                  <div class="title">Frontend Team Leader</div>
+                  <div class="icon">
+                    <i class="fa fa-briefcase"></i>
+                  </div>
+                  <div class="datetime">
+                    2017 - Present
+                    <div class="aff uppercase">Sutrix Solutions Company</div>
+                  </div>
+                </div>
+                <p>
+                  &bull; Ability to write high-performance, reusable code for UI components.<br>
+                  &bull; Have experience of leadership and mentoring.<br>
+                  &nbsp &cylcty; Analyze technical and build project structure.<br>
+                  &nbsp &cylcty; Support team to resolve project requirements.<br>
+                  &nbsp &cylcty; Review code and training team.<br>
+                  &nbsp &cylcty; Give solutions for technical issues/blockers.
+                </p>
+              </li>
+              <li>
+                <div class="heading">
+                  <div class="title">Senior Frontend Developer</div>
+                  <div class="icon">
+                    <i class="fa fa-briefcase"></i>
+                  </div>
+                  <div class="datetime">
+                    2016 - 2017
+                    <div class="aff uppercase">Sutrix Solutions Company</div>
+                  </div>
+                </div>
+                <p>
+                  &bull; Focus on helping agile teams with UI development for large scale CMS websites.<br>
+                  &bull; Have strong JavaScript experience, including concepts like asynchronous programming, ES6, OOP and Design Patterns.<br>
+                  &bull; Have HTML/CSS experience, including concepts like layout, specificity, cross browser compatibility and accessibility.
+                </p>
+              </li>
+              <li>
+                <div class="heading">
                   <div class="title">Technical Executive</div>
                   <div class="icon">
                     <i class="fa fa-briefcase"></i>
                   </div>
                   <div class="datetime">
                     2015 - 2016
-                    <div class="aff uppercase">Square Direct Advertising Join Stock Company</div>
+                    <div class="aff uppercase">Square Direct Advertising Joint Stock Company</div>
                   </div>
                 </div>
                 <p>
-                  - Completed projects: huggies.com.vn, dsquare.com.vn, vinamilk.com.vn/the-gioi-an-dam, vinamilk.com.vn/hinh-dan-5-chieu, 1phuttietkiemtrieuniemvui.com.vn visitqatar.qa, ... <br>
-
-                  - Responsible for the frontend architecture of large scale responsive builds in Angular, Umbraco, and PyroCMS. <br>
-
-                  - Build interactive HTML5 Banner GDN Ads by Google Web Designer.
-                </p>
-              </li>
-              <li>
-                <div class="heading">
-                  <div class="title">Frontend Team Leader</div>
-                  <div class="icon">
-                    <i class="fa fa-briefcase"></i>
-                  </div>
-                  <div class="datetime">
-                    2016 - Present
-                    <div class="aff uppercase">Sutrix Solutions</div>
-                  </div>
-                </div>
-                <p>
-
+                  &bull; Have experience creating responsive and adaptive websites by using AngularJS, Umbraco and PyroCMS such as huggies.com.vn, dsquare.com.vn, vinamilk.com.vn/the-gioi-an-dam, vinamilk.com.vn/sua-dac-vinamilk, thehistoryofwhoo.com.vn, etc.<br>
+                  &bull; Build interactive HTML5 Banner GDN Ads by Google Web Designer.
                 </p>
               </li>
             </ul>
@@ -1648,9 +1673,9 @@
                 <a href="https://www.pinterest.com/thang24593/" class="button button-icon" target="_blank">
                   <i class="fa fa-pinterest"></i>
                 </a>
-                <a href="https://dribbble.com/thang24593" class="button button-icon" target="_blank">
+                <!-- <a href="https://dribbble.com/thang24593" class="button button-icon" target="_blank">
                   <i class="fa fa-dribbble"></i>
-                </a>
+                </a> -->
               </div>
             </div>
           </div>
